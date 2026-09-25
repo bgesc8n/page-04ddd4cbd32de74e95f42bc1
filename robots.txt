@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.dchjn.cn/sitemap.xml
